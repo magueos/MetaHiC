@@ -1,0 +1,7 @@
+# ShotGun Dataset was download using the following comand:
+# -O stands for the output file where the libraries will be downloaded as .zip
+wget "https://filesender.renater.fr/download.php?token=4c8bdd1b-cda2-435f-918c-7790e2fadc59&archive_format=zip&files_ids=22733315,22733316,22733317,22733318,22733319,22733320" -O SG2secuencias.zip
+
+# MetaHiC Dataset was download using the following comand:
+# -O stands for the output file where the libraries will be downloaded as .zip
+ wget "https://filesender.renater.fr/download.php?token=b8adfc4f-acce-4876-86b0-e41ddcd51983&archive_format=zip&files_ids=21984909,21984910,21984911,21984912,21984913,21984914,21984915,21984916,21984917,21984918,21984919,21984920,21984921,21984922,21984923,21984924,21984925,21984926,21984927" -O secuencias.zip
